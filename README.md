@@ -10,7 +10,7 @@ With hands-on experience in ML analytics, machine learning support, and dashboar
 
 ## 💼 Work Experience
 
-### 🔹 ML Services Analyst 2 | Sprintk (Nov 2022 – Present)
+### 🔹 ML Services Analyst 2 | Sprinklr (Nov 2022 – Present)
 - Built and deployed predictive models achieving **0.87 F1 score**
 - Improved model performance by **10%**
 - Reduced processing time by **50%**
