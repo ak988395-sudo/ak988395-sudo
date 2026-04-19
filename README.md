@@ -27,25 +27,6 @@ With hands-on experience in ML analytics, machine learning support, and dashboar
 
 ---
 
-## 📊 Projects
-
-### 🔹 SQL Data Analysis Project
-- Worked on large datasets (sales, flights, products)
-- Used joins, CTEs, window functions (RANK, ROW_NUMBER)
-- Generated insights on revenue drivers and trends
-
-### 🔹 Power BI Dashboard (Sales & Operations)
-- Built interactive dashboards using DAX
-- Tracked KPIs like sales trends, delays, regional performance
-- Identified high-performing regions & bottlenecks
-
-### 🔹 Python Data Analysis Project
-- Used Pandas & NumPy for data cleaning and EDA
-- Analyzed employee & project datasets
-- Improved resource allocation insights
-
----
-
 ## 🛠️ Skills
 - Insights model making and delivery
 - Project Management
