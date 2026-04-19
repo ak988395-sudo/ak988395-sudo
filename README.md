@@ -47,10 +47,12 @@ With hands-on experience in ML analytics, machine learning support, and dashboar
 ---
 
 ## 🛠️ Skills
+- Insights model making and delivery
+- Project Management
 - SQL  
 - Power BI  
 - Python (Pandas, NumPy)  
-- Excel (Advanced)  
+- Excel
 - Data Visualization  
 - Data Modeling  
 - Business Intelligence  
@@ -68,9 +70,3 @@ With hands-on experience in ML analytics, machine learning support, and dashboar
 - 📧 ak988395@gmail.com  
 - 🔗 https://www.linkedin.com/in/akshay-lohar-b06102154
 - 💻 https://github.com/ak988395-sudo  
-
----
-
-## 💡 Personal Note
-I believe data is not just numbers — it's a story.  
-I enjoy uncovering patterns, solving business problems, and turning insights into impact.
